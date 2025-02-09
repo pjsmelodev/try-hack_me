@@ -1,2 +1,2 @@
-# try-hack_me
+# try-hack-me
 TryHackMe files and write ups
