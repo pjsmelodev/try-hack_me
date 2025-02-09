@@ -1,0 +1,24 @@
+Task 1) 
+Offensive Security
+
+Task 2)
+sudo apt install gobuster
+
+gobuster -u http://fakebank.thm -w wordlist.txt dir
+    -u -> diretoria do site
+    -w -> uso de uma wordlist
+
+/bank-transfer tem status 200
+
+visitar fakebank.thm/bank-transfer no browser
+
+preencher os dados, enviar e voltar à minha conta
+
+BANK-HACKED
+
+não precisa de resposta
+
+terminar a ligação
+
+Task 3)
+não precisa de resposta
