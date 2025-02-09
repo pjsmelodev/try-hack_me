@@ -1,0 +1,24 @@
+Task 1)
+blue team
+
+Task 2)
+security operations center
+
+digital forensics and incident response
+
+ransomware
+
+Task 3)
+Message:
+Unauthorized connection attempt detected fromIP address 143.110.250.149 to port 22
+
+introduzir o ip 143.110.250.149
+143.110.250.149 to port 22
+
+introduzir o ip 143.110.250.149
+
+contactar Will Griffin - SOC Team Lead
+
+bloquear 143.110.250.149
+
+THM{THREAT-BLOCKED}
