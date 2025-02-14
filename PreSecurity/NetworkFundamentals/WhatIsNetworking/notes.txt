@@ -1,0 +1,16 @@
+IP:
+Conjunto de números usados para indentificar um device numa rede
+
+Composto por quatro octetos
+
+MAC ADDRESS:
+Número hexadecimal de 12 caracteres que identifica a motherboard unicamente
+
+Primeiros 3 pares indicam o fabricante e os 3 últimos indicam o device
+
+Podem ser spoofed
+
+PING:
+Usa o ICMP (Internet Control Message Protocol)
+
+Usado para determinal a qualidade da ligação entre devices numa rede

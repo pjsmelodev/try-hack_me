@@ -3,3 +3,32 @@ network
 
 Task 2)
 tim berners-lee
+
+Task 3)
+a)
+internet protocol
+
+b)
+octet
+
+c)
+4
+
+d)
+media access control
+
+e)
+Mudar o MAC Add do Bob para ficar igual ao da Alice
+Fazer a request
+THM{YOU_GOT_ON_TRYHACKME}
+
+Task 4)
+a)
+ICMP
+
+b)
+ping 10.10.10.10
+
+c)
+ping -c 4 8.8.8.8
+THM{I_PINGED_THE_SERVER}
