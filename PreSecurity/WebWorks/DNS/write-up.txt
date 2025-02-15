@@ -1,0 +1,59 @@
+Task 1)
+domain name system
+
+Task 2)
+
+a)
+63
+
+b)
+_
+
+c)
+253
+
+d)
+ccTLD
+
+Task 3)
+
+a)
+MX
+
+b)
+aaaa
+
+Task 4)
+
+a)
+ttl
+
+b)
+recursive
+
+c)
+authoritative
+
+Task 5)
+
+a)
+Select DNS Type
+Add shop as subdomain
+shops.myshopify.com
+
+b)
+Select TXT
+Don't select a subdomain
+THM{7012BBA60997F35A9516C2E16D2944FF}
+
+c)
+Select MX
+Don't select a subdomain
+exchanger = 30
+30
+
+d)
+Select A
+Don't select a subdomain
+Address: 10.10.10.10
+10.10.10.10
