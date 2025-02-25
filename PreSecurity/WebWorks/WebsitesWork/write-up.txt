@@ -1,0 +1,42 @@
+TASK 1)
+
+1.1)
+    front end
+
+
+TASK 2)
+
+2.1)
+    click Render HTML Code
+
+2.2)
+    Check in the HTML code that the second image is broken because it lacks a file extension (line 10)
+    Update HTML code on line 10 to <img src='img/cat-2.jpg'>
+    Render
+    HTMLHERO
+
+2.3)
+    Add <img src='img/dog-1.png'> to line 10 (assuming you delete the comment)
+    DOGHTML
+
+TASK 3:
+
+3.1)
+    View site
+    Change line 7 to <div id="demo">Hack the Planet</div>
+    Render HTML+JS Code
+    JSISFUN
+
+TASK 4)
+
+4.1)
+    Click the link
+    Check the page's source code
+    Credentials are commented: Username: admin, Password: testpasswd
+    testpasswd
+
+TASK 5)
+
+5.1)
+    In the name search bar: <a href="http://hacker.com"></a>
+    HTML_INJ3CTI0N
