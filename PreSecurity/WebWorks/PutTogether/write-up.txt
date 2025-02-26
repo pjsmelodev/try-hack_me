@@ -1,0 +1,37 @@
+TASK 2)
+
+2.1)
+    cdn
+
+2.2)
+    health check
+
+2.3)
+    waf
+
+TASK 3)
+
+3.1)
+    virtual hosts
+
+3.2)
+    dynamic
+
+3.3)
+    nay
+
+TASK 4)
+
+4.1)
+    1 - Request tryhackme.com in your browser
+    2 - Check local cache for IP Address
+    3 - Check your recursive DNS Server for Address
+    4 - Query root server to find authoritative DNS Server
+    5 - Authoritative DNS Server advises the IP address for the website
+    6 - Request passes through a Load Balancer 
+    7 - Request passes through a Web Application Firewall
+    8 - Connect to Webserver on port 80 or 443
+    9 - Web server receives the GET request
+    10 - Web Application talks to Database
+    11 - Your Browser renders the HTML into a viewable website
+    THM{YOU_GOT_THE_ORDER}
