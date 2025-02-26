@@ -1,0 +1,58 @@
+TASK 2)
+
+2.1)
+    1991
+
+TASK 4)
+
+4.1)
+    echo "TryHackMe"
+
+TASK 5)
+
+5.1)
+    ls
+    4
+
+5.2)
+    cd folder1
+    ls
+    empty
+    cd ../folder2
+    ls
+    empty
+    cd ../folder3
+    ls
+    empty
+    cd ../folder4
+    ls
+    not empty
+    folder4
+
+5.3)
+    inside folder4
+    cat note.txt
+    Hello World!
+
+5.4)
+    inside folder4
+    pwd
+    /home/tryhackme/folder4
+
+TASK 6)
+
+6.1)
+    cd 
+    grep "THM" access.log
+    THM{ACCESS}
+
+TASK 7)
+
+7.1)
+    &
+
+7.2)
+    echo password123 > passwords
+
+7.3)
+    echo tryhackme >> passwords
