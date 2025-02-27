@@ -1,0 +1,58 @@
+TASK 2)
+
+2.1)
+    psshutdown
+
+2.2)
+    windows user
+
+2.3)
+    C:\Windows\System32\control.exe /name Microsoft.Troubleshooting
+
+2.4)
+    control.exe
+
+TASK 3)
+
+3.1)
+    UserAccountControlSettings.exe
+
+TASK 4)
+
+4.1)
+    compmgmt.msc
+
+4.2)
+    6:15 am
+
+4.3)
+    sh4r3dF0Ld3r
+
+TASK 5)
+
+5.1)
+    msinfo32.exe
+
+5.2)
+    THM-WINFUN2
+
+5.3)
+    %SystemRoot%\system32\cmd.exe
+
+TASK 6)
+
+6.1)
+    resmon.exe
+
+TASK 7)
+
+7.1)
+    C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
+
+7.2)
+    ipconfig /all
+
+TASK 8)
+
+8.1)
+    regedt32.exe
